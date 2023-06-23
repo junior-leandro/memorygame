@@ -1,0 +1,18 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+/* excluir acima */
+
+.card__content {
+    position: relative;
+    width: 200px;
+    aspect-ratio: 1/1;
+    background: red;
+}
