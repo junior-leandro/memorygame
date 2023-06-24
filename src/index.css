@@ -1,4 +1,11 @@
-* {
+:root{
+  --color-primary:#13141F;
+  --color-secundary: crimson;
+  --color-text-light: #FFFFFF;
+  --color-text-dar: #000000;
+  
+}
+  * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
