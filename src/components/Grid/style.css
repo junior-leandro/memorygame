@@ -3,3 +3,7 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 0.2rem
 }
+
+.text {
+    padding: 2rem 0;
+}
