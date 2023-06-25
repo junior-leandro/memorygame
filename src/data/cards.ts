@@ -15,4 +15,12 @@ export const cards = [
         id: '4',
         back:'🙈',
     },
+    {
+        id: '5',
+        back:'🐍',
+    },
+    {
+        id: '6',
+        back:'🐓',
+    },
 ];

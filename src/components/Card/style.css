@@ -5,14 +5,13 @@
     aspect-ratio: 1/1;
     transform-style: preserve-3d;
     transition: transform 600ms ease-in-out;
+    
 }
-/*
-.card:hover .card__content{
+
+.card__content--flipped{
     transform: rotateY(180deg);
 }
-*/
-.card__content--flipped{
-    transform: rotateY(180deg);}
+
 .card__face {
     position: absolute;
     width: 100%;
@@ -23,6 +22,7 @@
     justify-content: center;
     font-size: 8rem;
     cursor: pointer;
+    border-radius: 0.5rem;
 }
 
 .card__face--front {

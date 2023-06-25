@@ -6,4 +6,19 @@
 
 .text {
     padding: 2rem 0;
+    font-weight: 700;
+}
+.reset__button {
+    padding: 0.4rem;
+    font-weight: 700;
+    cursor:pointer;
+    background-color: #000000;
+    color: var(--color-text-light);
+    border: 0;
+    border-radius: 0.5rem;
+}
+.reset__button:hover{
+    
+    background-color: #505050;
+    color: var(--color-text-light);
 }
